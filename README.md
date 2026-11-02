@@ -1,2 +1,2 @@
 # DC
-this is a data cleaning code, open source by Yousef Al-Ghunaimi
+this is a data cleaning app, open source code by Yousef Al-Ghunaimi
